@@ -1,0 +1,2 @@
+# WEATHER_CHECKIN
+JS and Node app based on https://www.youtube.com/redirect?redir_token=QUFFLUhqbEJRYVM4NzF2U2ZVTl9ZeWduVndFTm5hejk0Z3xBQ3Jtc0ttZUVTc3hWNE43NDZNMjduYzJrZDJBWHd3ekVKYmNhSzh0RmZvNTdHbU85ajBUeEdGaXNHRVhEbWVxQTkxQVNGd0RzbzduNzFjcnZIbHU4SHMtMTZldmNlaE96cjczemhpSHRaa2ZLTzVaNHI3ZWFQRQ%3D%3D&amp;v=17UVejOw3zA&amp;q=https%3A%2F%2Fgithub.com%2FCodingTrain%2FIntro-to-Data-APIs-JS&amp;event=video_description
